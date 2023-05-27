@@ -1,0 +1,52 @@
+/* .card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+} */
+
+body {
+    background-image: url(https://png.pngtree.com/background/20210711/original/pngtree-beautiful-technology-website-business-poster-background-template-picture-image_1107136.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    max-width: 50rem;
+    margin: 0 auto;
+  }
+  
+  .card {
+    border: 1px solid orange;
+    margin-top: 20px;
+  }
+  
+  h3 {
+    color: orange;
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .btn {
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
